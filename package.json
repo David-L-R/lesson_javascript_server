@@ -1,0 +1,21 @@
+{
+  "name": "atc_server",
+  "version": "1.0.0",
+  "description": "## Recap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-L-R/lesson_javascript_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-L-R/lesson_javascript_server/issues"
+  },
+  "homepage": "https://github.com/David-L-R/lesson_javascript_server#readme",
+  "keywords": []
+}
