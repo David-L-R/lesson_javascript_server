@@ -30,3 +30,12 @@ A Client - An application that request data (and web pages). Usually something l
 
 1. Use code written by others with NPM.
 1. Make a server that sends a webpage with `ExpressJS`.
+
+## NPM
+
+- install npm
+- `npm -v`
+- `npm install <package_name>`
+- running the program (`node <file_name>`)
+- add and run script
+-
