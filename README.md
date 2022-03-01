@@ -38,4 +38,14 @@ A Client - An application that request data (and web pages). Usually something l
 - `npm install <package_name>`
 - running the program (`node <file_name>`)
 - add and run script
--
+
+## Create an Express Server
+
+- Create an express server
+- Run and listen on port
+- `localhost:3000`
+- `GET`, `POST`, `PUT`, `DELETE` (CRUD)
+- `app.get` a route
+- check `req.method`
+- return a string
+- return HTML
