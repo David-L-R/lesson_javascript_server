@@ -51,3 +51,4 @@ A Client - An application that request data (and web pages). Usually something l
 - check `req.method`
 - return a string
 - return HTML
+- use params
