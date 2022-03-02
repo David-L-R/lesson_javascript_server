@@ -1,4 +1,6 @@
-# Lesson Javascript Server
+![server](https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=650%2Cmetadata=none%2Conerror=redirect%2Cq=85%2Cwidth=968/wp-content/uploads/waiters-day.jpg)
+
+# Servers
 
 ## Recap
 
