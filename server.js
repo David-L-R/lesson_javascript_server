@@ -6,13 +6,16 @@ const app = express();
 const PORT = 3000;
 
 app.get(
-  "/", // route to listen on
-  (req, res) =>
+  "/:name/:world", // route to listen on
+  (req, res) => {
+    const { name, world } = req.params;
+
     res.status(200).send(`
     <h1>hello world</h1>
-    <h2>Some other title</h2>
-    <p>hello to you to</p>
-  `)
+    <h2>Welcome back ${name}</h2>
+    <p>We invite to join the ${world} world</p>
+  `);
+  }
 );
 
 app.get(
@@ -23,5 +26,5 @@ app.get(
 // start listening on PORT 3000
 app.listen(
   PORT, // TCP port where the server listens
-  () => console.log(`Listening on :${PORT}`) // confirmation function
+  () => console.log(`Listening on: ${PORT}`) // confirmation function
 );
