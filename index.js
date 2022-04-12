@@ -1,11 +1,12 @@
 // import express
 const express = require("express");
+const users = require("./user.json");
 
 // create server
 const app = express();
 
 app.get("/", (req, res) => {
-  return res.send("hello world");
+  return res.send(users);
 });
 
 // 3000 is common
