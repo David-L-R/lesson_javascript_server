@@ -62,3 +62,4 @@ A Client - An application that request data (and web pages). Usually something l
 - Create several routes
 - Use parameters
 - Use queries
+- Error handling
