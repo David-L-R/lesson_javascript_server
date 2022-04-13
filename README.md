@@ -4,7 +4,7 @@
 
 ## Recap
 
-### Basics
+### Fundamentals
 
 - data types (`string`, `boolean`, `number`, `object`, `array`, `undefined`, `null`)
 - variables (`let` and `const`)
@@ -23,10 +23,10 @@
 
 ## Lectures's Goals
 
-1. Understand basic web architecture.
-1. Know how to use code written by others with NPM.
-1. Know how to create an `Node` server using `Express`
-1. Know how to make request to a server and how to send a response
+1. Understand basic web architecture 🏗️.
+1. Know how to use code written by others with NPM 👺.
+1. Know how to create an `Node` server using `Express` 🤖.
+1. Know how to make request to a server and how to send a response 💁‍♂️.
 
 ## 1. Web Architecture
 
@@ -36,7 +36,19 @@ A Server - A machine that waits for requests and sends responses.
 
 A Client - An application that request data (and web pages). Usually something like a browser.
 
-## 2. Use External Code
+## 2. GIT
+
+![git flow](https://s3.eu-west-1.amazonaws.com/cd.sseu.re/items/E0ugREX8/fd81ecc0-b3b0-4502-9b09-c93ea5dad5ea.jpg?v=96f3df2586995c9be735ece68312b171?v=96f3df2586995c9be735ece68312b171)
+
+- stage
+- commit
+- push
+- pull
+- branch (advanced)
+- ignoring files `.gitignore`
+- clone
+
+## 3. Use External Code
 
 - install npm (`npm install -g npm`)
 - `npm -v`
@@ -44,15 +56,16 @@ A Client - An application that request data (and web pages). Usually something l
 - running the program (`node <file_name>`)
 - add and run script
 
-## 3. Create an Express Server
+## 4. Create an Express Server
 
 - Create an express server
 - Run and listen on port
 - `localhost:3000`
 
-## 4. Make a request and receive a response
+## 5. Make a request and receive a response
 
-- CRUD Operations - Create, Read, Update, Delete - `GET`, `POST`, `PUT/PATCH`, `DELETE`
+- RESTAPI (Create, Read, Update, Delete)
+- `GET`, `POST`, `PUT/PATCH`, `DELETE`
 - `app.get` a route
 - return a string
 
