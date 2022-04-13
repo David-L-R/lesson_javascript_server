@@ -50,6 +50,8 @@ A Client - An application that request data (and web pages). Usually something l
 
 ## 3. Use External Code
 
+![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)
+
 - install npm (`npm install -g npm`)
 - `npm -v`
 - `npm install <package_name>`
@@ -57,6 +59,8 @@ A Client - An application that request data (and web pages). Usually something l
 - add and run script
 
 ## 4. Create an Express Server
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" width="50%"/>
 
 - Create an express server
 - Run and listen on port
