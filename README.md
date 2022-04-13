@@ -75,6 +75,8 @@ A Client - An application that request data (and web pages). Usually something l
 
 ## 2nd Lecture
 
+- install nodemon
+- scripting
 - GET information from server
 - Create several routes
 - Use parameters
