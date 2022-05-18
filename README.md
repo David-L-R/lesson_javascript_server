@@ -42,6 +42,8 @@ A Client - An application that request data (and web pages). Usually something l
 - `app.get` a route
 - return a string
 
+* REST = Representational state transfer
+
 ## 2nd Lecture
 
 - install nodemon
