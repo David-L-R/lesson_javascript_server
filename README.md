@@ -46,7 +46,7 @@ A Client - An application that request data (and web pages). Usually something l
 - running the program (`node <file_name>`)
 - add and run script
 
-## 4. Create an Express Server
+## 3. Create an Express Server
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" width="50%"/>
 
@@ -54,7 +54,7 @@ A Client - An application that request data (and web pages). Usually something l
 - Run and listen on port
 - `localhost:3000`
 
-## 5. Make a request and receive a response
+## 4. Make a request and receive a response
 
 - RESTAPI (Create, Read, Update, Delete)
 - `GET`, `POST`, `PUT/PATCH`, `DELETE`
