@@ -75,10 +75,9 @@ A Client - An application that request data (and web pages). Usually something l
 
 ## 2nd Lecture
 
+- PORT as a variable
 - install nodemon
 - scripting
-- GET information from server
-- Create several routes
-- Use parameters
-- Use queries
-- Error handling
+- Request: Use parameters
+- Request: Use queries
+- Response: Error handling
