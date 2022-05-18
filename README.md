@@ -36,21 +36,9 @@ A Server - A machine that waits for requests and sends responses.
 
 A Client - An application that request data (and web pages). Usually something like a browser.
 
-## 2. GIT
+## 2. Use External Code
 
-![git flow](https://s3.eu-west-1.amazonaws.com/cd.sseu.re/items/E0ugREX8/fd81ecc0-b3b0-4502-9b09-c93ea5dad5ea.jpg?v=96f3df2586995c9be735ece68312b171?v=96f3df2586995c9be735ece68312b171)
-
-- stage
-- commit
-- push
-- pull
-- branch (advanced)
-- ignoring files `.gitignore`
-- clone
-
-## 3. Use External Code
-
-![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="50%" />
 
 - install npm (`npm install -g npm`)
 - `npm -v`
