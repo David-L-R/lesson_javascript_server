@@ -31,9 +31,10 @@ A Client - An application that request data (and web pages). Usually something l
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" width="50%"/>
 
-- Create an express server
-- Run and listen on port
-- `localhost:3000`
+- Create a new folder (`mkdir js_server`)
+- Initiate a project (`npm init`)
+- Create an express server (`npm install express`)
+- Run and listen on port (`localhost:4000`)
 
 ## 4. Make a request and receive a response
 
