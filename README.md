@@ -75,10 +75,10 @@ A Client - An application that request data (and web pages). Usually something l
 
 ## 2nd Lecture
 
-- `npm install` (with no package name)
-- PORT as a variable
 - install nodemon
 - scripting
+- `npm install` (with no package name)
+- PORT as a variable
 - Request: Use parameters
 - Request: Use queries
 - Response: Error handling
