@@ -2,25 +2,6 @@
 
 # Servers
 
-## Recap
-
-### Fundamentals
-
-- data types (`string`, `boolean`, `number`, `object`, `array`, `undefined`, `null`)
-- variables (`let` and `const`)
-- ternary operator (`condition ? true : false`)
-- conditional (`if (something) { do this }`)
-- Truthy and Falsy (`0`, `''`, `null`, `undefined` vs {}`, `[]`)
-- functions
-
-### Collections (Objects and Arrays)
-
-- Accessing items (`array[0]`)
-- Accessing properties (`object.prop` or `object["prop"]`)
-- Loops (for, forEach)
-- `.find`, `.filter`, `.map`
-- Object destructuring (`const { name, age } = user`)
-
 ## Lectures's Goals
 
 1. Understand basic web architecture 🏗️.
