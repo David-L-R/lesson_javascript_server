@@ -42,8 +42,8 @@ A Client - An application that request data (and web pages). Usually something l
 - `app.get` a route
 - return a string
 
-* API = Application Programming Interface
-* REST = Representational state transfer
+> API = Application Programming Interface
+> REST = Representational state transfer
 
 ## 2nd Lecture
 
