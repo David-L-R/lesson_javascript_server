@@ -17,6 +17,9 @@ A Server - A machine that waits for requests and sends responses.
 
 A Client - An application that request data (and web pages). Usually something like a browser.
 
+<img width="931" alt="Screenshot 2022-05-18 at 11 08 44" src="https://user-images.githubusercontent.com/31222514/169002891-32ad5aaa-0a4e-469b-bdc5-74cc7bbcad73.png">
+
+
 ## 2. Use External Code
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="50%" />
