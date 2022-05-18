@@ -11,11 +11,14 @@
 
 ## 1. Web Architecture
 
+### Server 
+- A machine that waits for requests and sends responses.
+
+### Client 
+- An application that request data (and web pages). Usually something like a browser.
+
 ![web architecture](https://darvishdarab.github.io/cs421_f20/assets/images/client-server-1-d85a93ea16590c10bed340dd78294d0d.png)
 
-A Server - A machine that waits for requests and sends responses.
-
-A Client - An application that request data (and web pages). Usually something like a browser.
 
 <img width="931" alt="Screenshot 2022-05-18 at 11 08 44" src="https://user-images.githubusercontent.com/31222514/169002891-32ad5aaa-0a4e-469b-bdc5-74cc7bbcad73.png">
 
